@@ -4,7 +4,7 @@ Welcome to the Hitech India Builders GitHub repository! This repository contains
 
 ## About Us
 
-Hitech India Builders is a leading construction company with over 15 years of experience in delivering excellence. Our team of skilled professionals is committed to exceeding expectations and setting new standards of craftsmanship in the construction industry. From residential developments to commercial complexes, industrial facilities, and infrastructure projects, we have successfully completed a wide range of projects, earning a reputation for reliability, integrity, and superior quality.
+Hitech India Builders is a leading construction company with over 25 years of experience in delivering excellence. Our team of skilled professionals is committed to exceeding expectations and setting new standards of craftsmanship in the construction industry. From residential developments to commercial complexes, industrial facilities, and infrastructure projects, we have successfully completed a wide range of projects, earning a reputation for reliability, integrity, and superior quality.
 
 ## Projects
 
