@@ -42,7 +42,7 @@ const portfolioData = [
     { category: "building-construction", image: "img/con3.jpg", title: "Construction" },
     { category: "building-construction", image: "img/con4.jpg", title: "Construction" },
     { category: "architecture-design", image: "img/int1.jpg", title: "architecture-design" },
-    { category: "Consulting", image: "img/conpaint.jpg", title: "Consulting" },
+    { category: "", image: "img/conpaint.jpg", title: "" },
     { category: "house-renovation", image: "img/hr.jpg", title: "house-renovation" },
     { category: "house-renovation", image: "img/hr2.jpg", title: "house-renovation" },
     { category: "house-renovation", image: "img/hr3.jpg", title: "house-renovation" },
@@ -59,7 +59,7 @@ const portfolioData = [
     { category: "interior-design", image: "img/id.jpg", title: "interior-design" },
     { category: "architecture-design", image: "img/ad4.jpg", title: "architecture-design" },
     { category: "building-construction", image: "img/con11.jpg", title: "Construction" },
-    { category: "Consulting", image: "img/paint1.jpg", title: "Consulting" },
+    { category: "", image: "img/paint1.jpg", title: "" },
     { category: "building-construction", image: "img/con12.jpg", title: "Construction" },
     { category: "architecture-design", image: "img/ad5.jpg", title: "architecture-design" },
 
